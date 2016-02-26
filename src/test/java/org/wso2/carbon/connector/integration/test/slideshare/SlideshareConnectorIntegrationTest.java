@@ -53,7 +53,7 @@ public class SlideshareConnectorIntegrationTest extends ESBIntegrationTest {
 
     private String repoLocation = null;
 
-    private String slideshareConnectorFileName = "slideshare-connector-1.0.0.zip";
+    private String slideshareConnectorFileName = "slideshare-connector-1.0.1-SNAPSHOT.zip";
 
     private Properties slideshareConnectorProperties = null;
 
