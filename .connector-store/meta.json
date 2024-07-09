@@ -1,0 +1,20 @@
+{
+    "name": "Slideshare",
+    "owner": "WSO2",
+    "category": "Storage and Content Management",
+    "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Slideshare+Connector",
+    "description": "The Slideshare connector allows you to access the Slideshare API through WSO2 ESB.SlideShare is a Web 2.0 based slide hosting device.Users can share files, presentations, infographics, documents, videos, PDFs, and webinars. It is used to connect with like-minded marketers and do more business.",
+    "status": "Unsupported",
+    "labels": [
+        "connector"
+    ],
+    "releases": [
+        {
+            "tagName": "v1.0.0",
+            "products": [
+                "\"ESB 4.9.0\""
+            ],
+            "isHidden": false
+        }
+    ]
+}
